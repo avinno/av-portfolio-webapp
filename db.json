@@ -1,0 +1,6 @@
+{
+    "_comment": "Test JSON data will be here which will be switched with my own API deployment to Vercel after testing. So, this file won't be a part of the final production, just for initial building purposes and testing.",
+    "name": "Aaron",
+    "age": 34,
+    "occupation": "Front-End Engineer"
+}
